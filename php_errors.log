@@ -1,0 +1,6 @@
+[24-Oct-2016 11:49:22 PRC] PHP Notice:  Undefined variable: c in D:\tnwamp\apache\htdocs\20161024MVC\framework\core\Framework.class.php on line 84
+[24-Oct-2016 11:49:22 PRC] PHP Fatal error:  Class 'home\controller\Controller' not found in D:\tnwamp\apache\htdocs\20161024MVC\framework\core\Framework.class.php on line 85
+[24-Oct-2016 16:41:10 PRC] PHP Fatal error:  Call to a member function rowCount() on boolean in D:\tnwamp\apache\htdocs\20161024MVC\framework\dao\DAOPDO.class.php on line 55
+[24-Oct-2016 17:18:19 PRC] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in D:\tnwamp\apache\htdocs\20161024MVC\application\home\model\GoodsModel.class.php on line 25
+[25-May-2017 14:18:59 PRC] PHP Fatal error:  Class 'home\controller\IndexController' not found in C:\env\Apache24\htdocs\20161024MVC\framework\core\Framework.class.php on line 100
+[25-May-2017 14:56:51 PRC] PHP Fatal error:  Class 'home\controller\IndexController' not found in C:\env\Apache24\htdocs\20161024MVC\framework\core\Framework.class.php on line 100

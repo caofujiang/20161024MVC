@@ -1,0 +1,1 @@
+[22-Oct-2016 16:36:25 PRC] PHP Fatal error:  Interface 'framework\dao\I_DAO' not found in D:\tnwamp\apache\htdocs\20161022MVC\framework\dao\DAOPDO.class.php on line 4
